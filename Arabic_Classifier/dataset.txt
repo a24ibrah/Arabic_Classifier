@@ -1,0 +1,4 @@
+Dataset source: Abdulla N. A., Mahyoub N. A., Shehab M., Al-Ayyoub M.,
+        ìArabic Sentiment Analysis: Corpus-based and Lexicon-basedî,
+        IEEE conference on Applied Electrical Engineering and Computing Technologies (AEECT 2013),
+        December 3-12, 2013, Amman, Jordan. (Accepted for Publication).
